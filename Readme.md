@@ -1,0 +1,1 @@
+It is a LMS project developed using mern stack
